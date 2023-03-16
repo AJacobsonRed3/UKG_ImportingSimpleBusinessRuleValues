@@ -1,0 +1,25 @@
+RuleCode,Description
+BHS1,Behavior Intervention Specialist 1
+BHS2,Behavior Intervention Specialist 2
+CASMGR,Case Manager
+DDSPEC,DD Specialist QIDP-Direct Care
+DIETWK,Dietary Worker
+HOUSKP,Housekeeping Worker and Maid
+INTSCR,Intake/Screening
+JOBCCH,Job Coach/Employment Specialist
+LPN,Licensed Practical Nurse
+MAINT,Maintenance/Physical Plant workers
+NOTELG,Not Eligible
+NP,Nurse Practitioner
+NPNS,Nurse Practitioner/Nursing Supervisor
+NA,Nursing Assistants
+PRSITD,Program or Site Director
+PSY,Psychologist (Licensed)
+PSYWRK,Psychology Worker/Other Behavioral Worker
+RN,Registered Nurse
+LSW,"Social Worker-Licensed (LMSW, LCSW)"
+SUPERV,Supervisor
+SSW,Support Services Worker
+THERAP,Therapists
+UNTAST,Unit Assistant
+UNTSEC,Unit Secretary
